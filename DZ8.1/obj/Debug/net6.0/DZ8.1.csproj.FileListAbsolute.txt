@@ -1,0 +1,4 @@
+F:\Visual studio\projects\DZ8.1\obj\Debug\net6.0\DZ8.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual studio\projects\DZ8.1\obj\Debug\net6.0\DZ8.1.AssemblyInfoInputs.cache
+F:\Visual studio\projects\DZ8.1\obj\Debug\net6.0\DZ8.1.AssemblyInfo.cs
+F:\Visual studio\projects\DZ8.1\obj\Debug\net6.0\DZ8.1.csproj.CoreCompileInputs.cache
